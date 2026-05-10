@@ -1,12 +1,13 @@
-wrapper.service.name=Oracle_AppNode_Service
-wrapper.console.title=Oracle_AppNode_Service
+ntservice.name=Oracle_AppNode_Service
+ntservice.displayname=Oracle_AppNode_Service
+ntservice.description=TIBCO BW 6.12 Oracle AppNode Service
 
 wrapper.java.command=java
 
 wrapper.working.dir=.
 
-wrapper.app.parameter.1=startBWAppNode.bat
-
 wrapper.image=startBWAppNode.bat
+
+wrapper.app.parameter.1=startBWAppNode.bat
 
 wrapper.ntservice.starttype=AUTO_START
