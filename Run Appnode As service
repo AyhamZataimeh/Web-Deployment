@@ -1,6 +1,7 @@
 ntservice.name=Oracle_AppNode_Service
 ntservice.displayname=Oracle_AppNode_Service
 ntservice.description=TIBCO BW 6.12 Oracle AppNode Service
+ntservice.binary.path.absolute=C:\Program Files\tibco\bw\6.12\domains\Oracle-6.12\appnodes\Oracle6.12-Appspace\Oracle6.12-Appnode\bin\pwrap.exe
 
 wrapper.java.command=java
 
