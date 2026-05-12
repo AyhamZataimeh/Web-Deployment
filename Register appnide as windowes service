@@ -1,0 +1,6 @@
+ntservice.name=AppNode_NT
+ntservice.binary.path.absolute=C:\<tibcohome>\bw\6.2\domains\<domain>\appnodes\<appSpace>\<appNode>\bin\<appnode>.exe
+application.args=-config c:/<tibcohome>/bw/6.2/domains/<domain>/appnodes/<appnode>/<node>/config.ini start
+
+
+<appnode>.exe --install
